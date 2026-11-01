@@ -38,3 +38,6 @@ alembic/versions/__pycache__/
 .pytest_cache/
 .coverage
 htmlcov/
+
+# Trained model weights (not stored in git)
+*.pth
